@@ -1,0 +1,17 @@
+.c-link browser-window[shadow][mode="dark"] {
+	--bw-border: none;
+}
+.c-link-c {
+	margin-top: 1.5em;
+}
+.c-link img,
+.c-link svg {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	aspect-ratio: 1200/630;
+	object-fit: cover;
+}
+.c-link-empty {
+	aspect-ratio: 1200/630;
+}
