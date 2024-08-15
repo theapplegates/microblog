@@ -1,0 +1,5 @@
+[build]
+	# The build output folder
+	publish = "_site"
+	# The build command
+	command = "eleventy"
